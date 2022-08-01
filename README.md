@@ -1,3 +1,3 @@
 # Intro to Sagemaker
 
-![sagemaker]('sagemaker logo.png')
+![sagemaker](sagemaker logo.png)
