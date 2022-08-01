@@ -13,7 +13,7 @@ Read the following tutorials from Medium:
 
 ## Building Static Webpages
 - [Create a static webpage using Github and Plotly](https://austinlasseter.medium.com/create-a-static-webpage-using-github-and-plotly-468ae89710d3)
-- [https://austinlasseter.medium.com/build-a-password-protected-website-using-aws-lambda-and-cloudfront-3743cc4d09b6](Build a password-protected website using AWS CloudFront, Lambda and S3)
+- [Build a password-protected website using AWS CloudFront, Lambda and S3 ](https://austinlasseter.medium.com/build-a-password-protected-website-using-aws-lambda-and-cloudfront-3743cc4d09b6)
 - [How to host a static website on an Amazon S3 bucket](https://austinlasseter.medium.com/how-to-host-a-static-website-on-an-amazon-s3-bucket-be25a613586a)
 
 
